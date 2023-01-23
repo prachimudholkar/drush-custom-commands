@@ -1,0 +1,5 @@
+name: Drush 9 Custom Commands
+description: Creating Drush 9 custom commands
+core: 8.x
+type: module
+package: Custom
